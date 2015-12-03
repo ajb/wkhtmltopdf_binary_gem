@@ -2,8 +2,8 @@
 require 'rake'
 
 Gem::Specification.new do |s|
-  s.name = "wkhtmltopdf-binary"
-  s.version = "0.9.9.3"
+  s.name = "ajb-wkhtmltopdf-binary"
+  s.version = "0.0.1"
   s.author = "Zakir Durumeric"
   s.email = "zakird@gmail.com"
   s.platform = Gem::Platform::RUBY
